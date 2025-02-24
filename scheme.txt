@@ -1,0 +1,51 @@
+src/
+├── Header/
+│   ├── Button/
+│   │   ├── Button.js
+│   │   └── Button.module.css
+│   ├── Logo/
+│   │   ├── Logo.js
+│   │   └── Logo.module.css
+│   └── Navigation/
+│       ├── NavItem/
+│       │   ├── NavItem.js
+│       │   └── NavItem.module.css
+│       ├── Navigation.js
+│       └── Navigation.module.css
+├── Main/
+│   ├── Main.js
+│   ├── About/
+│   │   ├── About.js
+│   │   ├── About.module.css
+│   │   └── dino.jpg
+│   ├── Advantages/
+│   │   ├── Advantages.js
+│   │   └── Advanages.module.css
+│   ├── Offer/
+│   │   ├── Offer.js
+│   │   ├── Offer.module.css
+│   │   └── bikes.jpg
+│   ├── Rental/
+│   │   ├── Rental.js
+│   │   ├── Rental.module.css
+│   │   └── rental.jpg
+│   ├── Service/
+│   │   ├──ServiceItem/
+│   │   │  ├── ServiceItem.js
+│   │   │  └── ServiceItem.module.css
+│   │   ├── Services.js
+│   │   └── Service.module.css
+│   ├── Text/
+│   │   ├── Text.js
+│   │   └── Text.module.css
+│   └── Title/
+│       ├── Title.js
+│       └── Title.module.css
+├── App.css
+├── App.js
+├── App.test.ts
+├── index.css
+├── index.js
+├── logo.svg
+├── reportWebVitals.js
+└── setupTests.js

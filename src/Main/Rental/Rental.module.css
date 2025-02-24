@@ -1,0 +1,27 @@
+.rental {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    background-color: white;
+    justify-content: center;
+    padding: 20px 0;
+    min-height: 100vh;
+}
+
+.text {
+    width: 980px;
+    max-width: 1200px;
+    font-size: 2em;
+    font-style: italic;
+    color: rgb(38, 52, 107);
+    padding: 20px;
+}
+
+.image {
+    width: 80%;
+    max-width: 1200px;
+    background-image: url('rental.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}

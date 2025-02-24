@@ -1,0 +1,15 @@
+.advantages {
+    display: flex;
+    color: rgb(38, 52, 107);
+    font-size: calc(10px + 1.5vmin);
+    min-height: 87vh;
+    align-items: center;
+}
+
+.text {
+    width: 680px;
+    margin: auto;
+    text-align: left;
+    font-style: italic;
+    justify-content: center;
+}
