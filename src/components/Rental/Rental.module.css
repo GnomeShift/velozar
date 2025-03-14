@@ -20,7 +20,7 @@
 .image {
     width: 80%;
     max-width: 1200px;
-    background-image: url('rental.jpg');
+    background-image: url('../../images/rental.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;

@@ -1,25 +1,28 @@
-.about {
+.offer {
+    background-color: rgb(127, 206, 221);
     display: flex;
-    background-color: rgb(238, 233, 212);
-    padding: 20px 0;
+    align-items: center;
+    padding: 30px 0;
     justify-content: center;
     min-height: 100vh;
-    color: rgb(38, 52, 107);
+    color: white;
 }
 
-.text:not(Title) {
+.text {
     width: 680px;
     margin-left: 120px;
+    margin-right: 120px;
     text-align: left;
+    font-style: italic;
     font-size: calc(10px + 1.5vmin);
 }
 
-.dino {
+.image {
     width: 800px;
-    height: 600px;
-    margin-right: 120px;
-    background-image: url('dino.jpg');
+    min-height: 100vh;
+    background-image: url('../../images/bikes.jpg');
     background-repeat: no-repeat;
     background-position: right;
     background-size: contain;
 }
+

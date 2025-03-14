@@ -1,46 +1,50 @@
 src/
-├── Header/
+├── components/
+│   ├── About/
+│   │   ├── About.js
+│   │   └── About.module.css
+│   ├── Advantages/
+│   │   ├── Advantages.js
+│   │   └── Advantages.module.css
 │   ├── Button/
 │   │   ├── Button.js
 │   │   └── Button.module.css
+│   ├── Header/
+│   │   ├── Header.js
+│   │   └── Header.module.css
 │   ├── Logo/
 │   │   ├── Logo.js
 │   │   └── Logo.module.css
-│   └── Navigation/
-│       ├── NavItem/
-│       │   ├── NavItem.js
-│       │   └── NavItem.module.css
-│       ├── Navigation.js
-│       └── Navigation.module.css
-├── Main/
-│   ├── Main.js
-│   ├── About/
-│   │   ├── About.js
-│   │   ├── About.module.css
-│   │   └── dino.jpg
-│   ├── Advantages/
-│   │   ├── Advantages.js
-│   │   └── Advanages.module.css
+│   ├── Main/
+│   │   └── Main.js
+│   ├── Navigation/
+│   │   ├── Navigation.js
+│   │   └── Navigation.module.css
+│   ├── NavItem/
+│   │   ├── NavItem.js
+│   │   └── NavItem.module.css
 │   ├── Offer/
 │   │   ├── Offer.js
-│   │   ├── Offer.module.css
-│   │   └── bikes.jpg
+│   │   └── Offer.module.css
 │   ├── Rental/
 │   │   ├── Rental.js
-│   │   ├── Rental.module.css
-│   │   └── rental.jpg
+│   │   └── Rental.module.css
 │   ├── Service/
-│   │   ├──ServiceItem/
-│   │   │  ├── ServiceItem.js
-│   │   │  └── ServiceItem.module.css
-│   │   ├── Services.js
+│   │   ├── Service.js
 │   │   └── Service.module.css
-│   ├── Text/
+│   ├── ServiceItem/
+│   │   ├── ServiceItem.js
+│   │   └── ServiceItem.module.css
+│   ├── Text
 │   │   ├── Text.js
 │   │   └── Text.module.css
 │   └── Title/
 │       ├── Title.js
 │       └── Title.module.css
+├── images/
+│   ├── bikes.jpg
+│   ├── dino.jpg
+│   └── rental.jpg
 ├── App.css
 ├── App.js
 ├── App.test.ts

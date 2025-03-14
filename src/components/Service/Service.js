@@ -1,6 +1,6 @@
 import React, {useEffect, useState} from 'react';
 import styles from './Service.module.css';
-import ServiceItem from './ServiceItem/ServiceItem';
+import ServiceItem from '../ServiceItem/ServiceItem';
 
 const Service = () => {
     const [isVisible, setIsVisible] = useState(false);
